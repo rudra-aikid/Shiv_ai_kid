@@ -5,3 +5,5 @@ This is my 1st project
 # print ('good evening')
 while ('6<>9')
 print ('warriors')
+1_movie = "warriors"
+while_motivation = "Today is my day"
