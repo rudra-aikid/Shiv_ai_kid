@@ -13,3 +13,7 @@ while_motivation = "Today is my day"
 # basic function
 print ("123")
 print ("I am the best")
+
+# basic function 
+a = 5
+   print("type(a)")
