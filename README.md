@@ -9,3 +9,7 @@ print ('warriors')
 while_motivation = "Today is my day"
 # username = ("RK_DEVIL")
 # Passward = ("rk@123")
+
+# basic function
+print ("123")
+print ("I am the best")
