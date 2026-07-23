@@ -17,3 +17,5 @@ print ("I am the best")
 # basic function 
 a = 5
    print("type(a)")
+# input ("samadhan king")
+  # print ("shiv girl")
