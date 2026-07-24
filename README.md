@@ -19,3 +19,9 @@ a = 5
    print("type(a)")
 # input ("samadhan king")
   # print ("shiv girl")
+
+
+# using input()
+  input =("enter name or email")
+
+# Passward =("12345678")
